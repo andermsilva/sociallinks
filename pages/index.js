@@ -50,7 +50,9 @@ const Index = ({ data }) => {
             <div className='text-center py-4'>
 
                 Projeto  criado durante o evento Dev10k do <a href='https://devpleno.com'> DevePleno </a> <br />
-                link disponivel em:
+                link disponivel em: <a href='https://github.com/andermsilva/sociallinks'>
+                                            https://github.com/andermsilva/sociallinks
+                                    </a>
             </div>
             </div>
         </div>
