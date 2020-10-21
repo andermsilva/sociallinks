@@ -39,9 +39,7 @@ const Index = ({ data }) => {
 
                             );
                         }
-                        if (item.slice_type === 'imagem') {
-                            return (<img src={item.primary.imagem.url} className='mx-auto' />);
-                        }
+                      
                         return null;
                     })}
                
